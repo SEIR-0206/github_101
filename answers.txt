@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+Jonathan Pires
+
+1- Linus Torvalds
+2- Created the Linux operating system
+3-  2005
+4-  git init
+5- it would take the repo I have in my computer and send it over to my remote location on Github 
+6- to make sure certain files are not tracked
+7- a fork is when you make a copy of someone's repo into your github account, and you'd want to do that to make sure you don't make permanent changes that person's repo.
+8- 
