@@ -1,3 +1,26 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Leonardo Rodriguez 
+
+
+1. The person who invented Git is Linus Torvalds 
+
+2. Linus Torvals is also famous for creating the linux operating system
+
+3. 2005
+
+4. git init
+
+5. git push updates your code on github with the code you currently have on vscode
+
+6. the purpose of the .gitignore is to tell git to not track certain files 
+
+7. a fork is a copy of the code that is already on github and it is meant to be used to edit code without messing up the original code 
+
+8. a clone is a copy of the entire repository meant to be used for open source and, similar to a fork, it doesnt damage the original code of the owner. You can have as many clones as necessary  
+
+9. It is possible but it is not recommended because it can cause alot of errors within git. It is better to put them side by side but not nested within each other. 
+
+10. true, you can type git status at any time. 
+
