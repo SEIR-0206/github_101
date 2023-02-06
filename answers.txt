@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Joshua Pent
+1. Linus Torvalds
+2. Also created Linux
+3. 2005
+4. git init
+5. It uploads your local file or repository up to github or the remote repository
+6. To leave out sensitive data
+7. A fork is a copy of code off github to your own URL. It ensures you're not overwriting someone elses work
+8. A copy of the code, generally local. You can have as many clones are you want.
+9. NEVER
+10. true
