@@ -1,3 +1,23 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Luke Tyson
+ 1. Linus Torvalds
+
+ 2. He is also well-known for the Linux Kernel
+
+ 3. 2005
+
+ 4. git init
+
+ 5. The git push sends the changes that you made to the code to a place that you specify, typically back to the fork that you made of a repository on Github.
+
+ 6. The purpose of a .gitignore file is to prevent sensitive information from your personal computer to be shared to the internet.
+
+ 7. A fork is a snapshot of the repository how you found it when you forked it - it allows you to make changes to the code on your own without drastically altering the original/master repository, or source code.
+
+ 8. A clone is a local copy of the fork that you make of the original copy. It allows you to make changes to the code in an editor on your computer. You could feasibly have as many clones as you want, limited only by the storage space on your computer.
+
+ 9. No way! Never!
+
+ 10. It's possible to run git status at any time while in a repository, though it will give different feedback depending on what point in the staging process one is at.
