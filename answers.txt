@@ -1,3 +1,14 @@
-Your answers go here!
-Please include your name and number your answers.
+Sean Munjal SEI 2/6
+
+1. Linus Torvalds
+2. He also created Linux
+3. 2005
+4. git init
+5. It moves the code on your local machine to the remote repository.
+6. To protect the privacy of secret code.
+7. Fork creates a copy of source code. We want this so people have access without screwing it up.
+8. Clone copies the fork into your local machine. As many as you want?
+9. Absolutely not.
+10. True
+
 ==================================================
