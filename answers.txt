@@ -11,4 +11,6 @@ Jonathan Pires
 5- it would take the repo I have in my computer and send it over to my remote location on Github 
 6- to make sure certain files are not tracked
 7- a fork is when you make a copy of someone's repo into your github account, and you'd want to do that to make sure you don't make permanent changes that person's repo.
-8- 
+8- it's a copy of a repo from a remote location to my machine. And you can have multiple clones
+9- you shold not nest repotitories because it can confuse github
+10- true
